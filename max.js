@@ -1,3 +1,9 @@
+//find the contiguous subarray within an array, 
+//A of length N which has the largest sum.
+//Input Format:The first and the only argument contains an integer array, A. 
+//Output Format: Return aninteger representing the maximum possible sum of the contiguous subarray.
+
+
 var maxSubArray = function(nums) {
      
     let sum = nums[0];

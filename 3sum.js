@@ -1,3 +1,6 @@
+//Given an array S of n integers, find three integers in S such that the sum is closest to agiven number, target.Return the sum of the three integers.
+//Assume that there will only beone solution
+
 var threeSumClosest = function(nums, target) {
     
     var len = nums.length;

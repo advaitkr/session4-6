@@ -1,3 +1,5 @@
+//Pair With Given Difference
+
 var findPairs = function(nums, k) {
     let arr = []
     let obj = {}

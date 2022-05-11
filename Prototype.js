@@ -1,3 +1,7 @@
+//Create an object calledTeacherderived from thePersonclass, 
+//and implement a method calledteachwhich receives a string calledsubject, 
+//andprints out:
+
 const Person = function(){}
 
 Person.prototype.initialize = function(name,age){

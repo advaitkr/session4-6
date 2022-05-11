@@ -1,3 +1,6 @@
+//Problem Description Given a matrix of m * n elements (m rows, n columns), 
+//return allelements of the matrix in spiral order.//
+
 var generateMatrix = (arr) =>{
     let n = arr.length
     let m = n, i;

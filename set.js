@@ -1,3 +1,5 @@
+//Write a function called hasDuplicate which accepts an array and returns true or false if that arraycontains a duplicate
+
 const checkDuplicate = (arr) =>{
     const mySet1 = new Set()
        for(let r of arr){
